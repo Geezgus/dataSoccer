@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
 
         arrayOf(
             arrayOf(findViewById<Button>(R.id.btn_brazil), Team("Brazil", "#FDE931")),
-            arrayOf(findViewById<Button>(R.id.btn_serbia), Team("Serbia", "#DF2C3F")),
+            arrayOf(findViewById<Button>(R.id.btn_serbia), Team("Serbia", "#E3243A")),
             arrayOf(findViewById<Button>(R.id.btn_switzerland), Team("Switzerland", "#FFFFFF")),
             arrayOf(findViewById<Button>(R.id.btn_cameroon), Team("Cameroon", "#054C40"))
         ).forEach {
